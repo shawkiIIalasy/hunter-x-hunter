@@ -1,0 +1,3 @@
+{
+    "mawdoo3.com" : "//a[contains(concat(' ', normalize-space(@class), ' '), ' category-box ')]"
+}
